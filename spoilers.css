@@ -1,0 +1,44 @@
+title{
+  background-color: yellow;
+  color: red;
+  margin-left: 5%;
+  margin-right: 50%;
+  text-align: center;
+}
+body{
+  background-color: orange;
+  color: red;
+}
+h1{
+  background-color: yellow;
+  color: red;
+  margin-left: 5%;
+  margin-right: 50%;
+  text-align: center;
+}
+h2{
+  background-color: yellow;
+  color: red;
+  margin-left: 5%;
+  margin-right: 50%;
+  text-align: center;
+}
+p{
+  background-color: yellow;
+  color: red;
+  margin-left: 5%;
+  margin-right: 50%;
+}
+li{
+  background-color: yellow;
+  color: red;
+  margin-left: 15%;
+  margin-right: 65%;
+}
+.spoil-protect{
+  background-color: black;
+  color: black;
+}
+.spoil-protect:hover{
+  background-color: yellow;
+}
